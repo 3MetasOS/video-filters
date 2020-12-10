@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { VideoFilterComponent } from './pages/video-filter/video-filter.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    VideoFilterComponent
   ],
   imports: [
     BrowserModule,

@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "video-filters"
+  "defaultProject": "video-filters",
+  "cli": {
+    "analytics": "b533a6f7-ac30-4ef0-8c2b-4283c34e7672"
+  }
 }
